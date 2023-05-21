@@ -1,6 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 #image
-![front](https://github.com/Mibek-Shrestha/chakra-ui-react/assets/79530597/091f5aba-ef09-428a-a3d9-41a6e6e77087)
 
 ## Available Scripts
 
